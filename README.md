@@ -12,8 +12,10 @@
 <li>As our assumption was wrong, we discard the assigned num and then we go for the next assumption with a different num value</li>
 </ol>
 
-## PROGRAM
-~~~
+PROGRAM:
+DEVELOPED BY: ASIN BANU A
+REGISTRATION NUMBER: 212225040035
+```
 M = 9
 def print_grid(grid):
     for row in grid:
@@ -66,10 +68,12 @@ if __name__ == "__main__":
         print_grid(puzzle)
     else:
         print("No solution exists for the given Sudoku puzzle.")
-~~~
-## Output :
-<img width="355" height="233" alt="image" src="https://github.com/user-attachments/assets/fc22642e-4920-4efe-90c8-fd6b2f7282e6" />
+```
 
+OUTPUT:
 
-## Result:
+<img width="347" height="297" alt="image" src="https://github.com/user-attachments/assets/77fcc28c-e5a0-4548-a372-fddf79b8f461" />
+
+RESULT:
+
 Thus the python program to implement a sudoko solver from scratch is executed sucessfully.
